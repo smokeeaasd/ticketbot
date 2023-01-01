@@ -1,0 +1,4 @@
+CREATE TABLE Servidor (
+	id TEXT PRIMARY KEY,
+	ticket_category TEXT
+);

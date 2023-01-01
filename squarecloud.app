@@ -1,0 +1,4 @@
+DISPLAY_NAME=ticketbot
+MEMORY=256
+MAIN=bot.js
+VERSION=latest
